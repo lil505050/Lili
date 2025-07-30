@@ -1,0 +1,40 @@
+היי,
+מבקש בתור ארכיטקט הגנה לפתוח גישה מכתובות המקור הבאות ב-Untrusted Dev ב-GCP Sky
+10.6.18.0/24
+10.6.24.0/24
+לכתובות והפורטים הבאים
+"aleph.satellogic.com",
+"auth.platform.satellogic.com",
+"login.satellogic.com",
+"api.satellogic.com",
+"api.capellaspace.com",
+"cirrus-data.capellaspace.com",
+"api.planet.com",
+"link.planet.com",
+"auth.canopy.umbra.space",
+"api.canopy.umbra.space",
+"iceye-us-int-n01-delivery.s3.il-central-1.amazonaws.com",
+"prod-prod-processed-sar-data.s3.amazonaws.com",
+"geodelivery.intelligence-airbusds.com,
+"daf74s3bucket.us-east-1.amazonaws.com",
+"daf75s3bucket.us-east-1.amazonaws.com",
+"daf76s3bucket.us-east-1.amazonaws.com",
+"daffbs3bucket.us-east-1.amazonaws.com",
+"fp01s3bucket.us-east-1.amazonaws.com",
+"mxr-dags-raps-bucket-prod.us-east-1.amazonaws.com",
+"mxr-dags-raps-prod-terraform-state.us-east-1.amazonaws.com",
+"mxr-gov-aws-access-logs-bucket-417495895101-eu-central-1.eu-central-1.amazonaws.com",
+"mxr-gov-aws-access-logs-bucket-417495895101-us-east-1.us-east-1.amazonaws.com",
+"mxr-gov-aws-access-logs-bucket-417495895101-us-east-2.us-east-2.amazonaws.com",
+"mxr-gov-aws-access-logs-bucket-417495895101-us-west-1.us-west-1.amazonaws.com",
+"mxr-gov-aws-access-logs-bucket-417495895101-us-west-2.us-west-2.amazonaws.com"
+
+בפורט 443 בפרוטוקול HTTPS
+
+
+ו-
+"geodelivery.intelligence-airbusds.com"
+
+בפורט 21 בפרוטוקול FTPS
+
+תודה רבה מראש
