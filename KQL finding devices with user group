@@ -1,0 +1,5 @@
+DeviceLogonEvents
+| extend AccountUpn = strcat(substring(AccountName, 0, 3), toupper(substring(AccountName, 3, 2)), substring(AccountName, 5), '@idf.il')
+| join kind=inner IdentityInfo on AccountUpn
+| where GroupMembership contains '<group-name>'
+| project AccountUpn, DeviceName
