@@ -1,0 +1,19 @@
+Account Logon Logoff Audit Account Lockout
+Account Logon Logoff Audit Group Membership
+Allow Auto Connect To Wi Fi Sense Hotspots
+Allow Internet Sharing
+Allow Microsoft accounts to be optional
+Allow Smart Screen
+Audit Authentication Policy Change
+Audit Changes to Audit Policy
+Audit Security Group Management
+Audit Security System Extension
+Audit Special Logon
+Detailed Tracking Audit PNP Activity
+Detailed Tracking Audit Process Creation
+Object Access Audit Detailed File Share
+Privilege Use Audit Sensitive Privilege Use
+Run .NET Framework-reliant components not signed with Authenticode
+System Audit Security State Change
+Turn off Data Execution Prevention for Explorer
+Turn off heap termination on corruption
