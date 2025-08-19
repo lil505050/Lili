@@ -19,7 +19,7 @@ System Audit Security State Change
 Turn off Data Execution Prevention for Explorer
 Turn off heap termination on corruption
 Submit Samples Consent
-
+____________________________________________
 Account Logon Logoff Audit Account Lockout
 Account Logon Logoff Audit Group Membership
 Allow Microsoft accounts to be optional
@@ -39,4 +39,5 @@ System Audit Security State Change
 
 ___Microsoft Defender for Endpoint Security Baseline:___
 Submit Samples Consent
+
 
