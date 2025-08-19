@@ -1,5 +1,4 @@
-Security Baseline for Windows 10 and later:
-
+___Security Baseline for Windows 10 and later:___
 Account Logon Logoff Audit Account Lockout
 Account Logon Logoff Audit Group Membership
 Allow Auto Connect To Wi Fi Sense Hotspots
@@ -21,6 +20,23 @@ Turn off Data Execution Prevention for Explorer
 Turn off heap termination on corruption
 Submit Samples Consent
 
+Account Logon Logoff Audit Account Lockout
+Account Logon Logoff Audit Group Membership
+Allow Microsoft accounts to be optional
+Audit Authentication Policy Change
+Audit Changes to Audit Policy
+Audit Security Group Management
+Audit Security System Extension
+Audit Special Logon
+Configure RPC connection settings
+Configure RPC listener settings
+Detailed Tracking Audit PNP Activity
+Detailed Tracking Audit Process Creation
+Hardened UNC Paths
+Object Access Audit Detailed File Share
+Privilege Use Audit Sensitive Privilege Use
+System Audit Security State Change
 
-Microsoft Defender for Endpoint Security Baseline
+___Microsoft Defender for Endpoint Security Baseline:___
 Submit Samples Consent
+
