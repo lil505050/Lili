@@ -40,4 +40,8 @@ System Audit Security State Change
 ___Microsoft Defender for Endpoint Security Baseline:___
 Submit Samples Consent
 
+___Specific AVD Problems:___
+71
+
+
 
